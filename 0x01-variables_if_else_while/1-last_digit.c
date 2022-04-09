@@ -10,7 +10,7 @@
  * Description: using the main function
  * this program prints "programming is positive,zero, or negative
  * Return: 0
- * */
+ */
 
 int main(void)
 
@@ -32,7 +32,7 @@ int main(void)
 
 	{
 
-			printf("Last digit of %d is %d and is 0\n", n, l);
+			printf("Last digit of %d is %d and is greater than 5\n", n, l);
 
 	}
 		
